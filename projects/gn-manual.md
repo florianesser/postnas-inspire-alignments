@@ -8,3 +8,4 @@ Notizen zu manuellen Anpassungen
 - Doppelt-Belegungen von Quellen für Eigenschaftsabbildungen entfernt (Im Kontext von Joins mit `ap_pto`, `ax_kommunalesgebiet` und `ax_gebiet_*`)
 - Fehlerhaft vorhandene Bedingung zu `ax_kommunalesgebiet` entfernt (in der Folge auch im Original-Mapping entfernt)
 - Zugriff auf Geometrie in Groovy Joins angepasst
+- Deaktivierte Zellen gelöscht
